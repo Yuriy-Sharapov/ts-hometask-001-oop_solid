@@ -1,7 +1,7 @@
 // подключаем генератор гуидов UUID
 const { v4: uuid } = require('uuid')
 
-class cBook{
+class cBook {
 
     constructor(
             title       = "",
